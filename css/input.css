@@ -40,6 +40,11 @@ input::placeholder {
   color: #9a9ca5;
 }
 #message {
+}
+.form__input {
+  margin-bottom: 1.7rem;
+}
+.form__input-message {
   font-size: 1.4rem;
   color: #9a9ca5;
   width: 41.5rem;
@@ -50,11 +55,6 @@ input::placeholder {
   border: 1px solid #d7dadd;
   background-color: #f4f5f6;
   resize: none;
-}
-.form__input {
-  margin-bottom: 1.7rem;
-}
-.form__input-message {
   margin-bottom: 1rem;
 }
 
